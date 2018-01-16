@@ -1,1 +1,122 @@
+<!doctype html>
 <html>
+<head>
+<meta charset="utf-8">
+<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" name="viewport"> 
+<meta content="yes" name="apple-mobile-web-app-capable"> 
+<meta content="yes" name="apple-touch-fullscreen">
+<meta content="black" name="apple-mobile-web-app-status-bar-style">
+<meta content="320" name="MobileOptimized">
+<meta content="telephone=no" name="format-detection">
+<title>贝戈士高清望远镜</title>
+<meta name="keywords" content="望远镜">
+<meta name="description" content="做最专业的望远镜网站">
+<link rel="stylesheet" href="images/style.css">
+<LINK href="images/favicon.ico" type="image/x-icon" rel=icon>
+<script src="images/jquery.js"></script>
+<script src="images/time.js"></script>
+<script src="images/demo.js"></script>
+<style>
+body{background: #856D35;}
+#page{max-width:750px; }
+</style>
+</head>
+<body>
+<div id="page">
+<header style="text-align: center;font-size: 20px">俄罗斯贝戈士军用望远镜直营店</header>
+<div class="banner">
+<p><img src="https://img.alicdn.com/imgextra/i4/802537928/TB2TQ_Jkz3z9KJjy0FmXXXiwXXa_!!802537928.jpg" width="750"  title="" alt=""/></p></div>
+
+<section class="buy">
+ <div class="row1"><strong>￥388</strong>
+   <ol>
+    <li><p>原价</p>￥998</li>
+    <li><p>折扣</p>4</li>
+    <li><p>节省</p>￥600</li>
+   </ol>
+ </div>
+ <div class="row2"><strong>已有 18236 人购买</strong>
+   <div class="djs">
+  <div class="time-count">
+    <div id="remainTime_1" class="jltimer"></div>
+	<script language="javascript">
+        addTimeLesser(1,2000);
+    </script>
+    </div>
+   </div>             
+ </div> 
+ <article class="des"></article>
+ <a class="btn" href="#buy">立即购买</a>
+</section>  
+ 
+<article class="showcontent">
+  <h2>支持全国货到付款，15天无理由退换货！</h2>
+  <div class="btn">
+    <p style="font-size: 20px;text-align: left">2018新款贝戈士望远镜：20倍黄金倍率，FMC镀膜，BAK4菱镜，金属镜身，防水防尘，磨砂皮质防滑纹路设计！品牌保证，万人的选择！ 原价998元，活动期间仅需388元，升级顶配版原价1588元，活动期间仅需598元，仅限今天，全国包邮+货到付款！</p>
+  </div>
+ 
+
+<h2>购买流程</h2>
+<p><img src="https://img.alicdn.com/imgextra/i4/802537928/TB2qOQXahHI8KJjy1zbXXaxdpXa_!!802537928.jpg" width="750"/></p>
+<p><img src="https://img.alicdn.com/imgextra/i3/802537928/TB2.6r.adbJ8KJjy1zjXXaqapXa_!!802537928.gif" width="750"/></p>
+<p> <img src="https://img.alicdn.com/imgextra/i4/802537928/TB2apf7adzJ8KJjSspkXXbF7VXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i4/802537928/TB2D37cab_I8KJjy1XaXXbsxpXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i4/802537928/TB2qjwcagLD8KJjSszeXXaGRpXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i4/802537928/TB21y.XahHI8KJjy1zbXXaxdpXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i2/802537928/TB2Qhccab_I8KJjy1XaXXbsxpXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i2/802537928/TB2sAb6adfJ8KJjy0FeXXXKEXXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i1/802537928/TB2Fx_8alHH8KJjy0FbXXcqlpXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i4/802537928/TB2pjr_ah6I8KJjSszfXXaZVXXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i3/802537928/TB2e8j.agnD8KJjy1XdXXaZsVXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i2/802537928/TB2RAb.adbJ8KJjy1zjXXaqapXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i2/802537928/TB29FEXalTH8KJjy0FiXXcRsXXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i1/802537928/TB2My3banvI8KJjSspjXXcgjXXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i2/802537928/TB29cJZlRHH8KJjy0FbXXcqlpXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i2/802537928/TB25_aMlL2H8KJjy1zkXXXr7pXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i4/802537928/TB29H.Xaf6H8KJjy0FjXXaXepXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i2/802537928/TB2wd_8annI8KJjSszbXXb4KFXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i4/802537928/TB210_8annI8KJjSszbXXb4KFXa_!!802537928.jpg" width="750"/>
+   <img src="https://img.alicdn.com/imgextra/i2/802537928/TB2Ipoeaf6H8KJjSspmXXb2WXXa_!!802537928.jpg" width="750"/>
+</p>
+<div class="btn">
+  <a class="btn" href="tel:13216795384">咨询热线：13216795384</a>    <a class="btn" href="sms:13216795384">短信订购：13216795384</a>    </div>
+<img src="https://img.alicdn.com/imgextra/i2/802537928/TB2qQH6adfJ8KJjy0FeXXXKEXXa_!!802537928.gif" width="750"/>
+</article>
+
+<article id="buy">
+<!------------------- 此处插入WFPHP订单系统调用代码 ------------------->
+<script type="text/javascript" src="http://dd.43e8.top/wfpublic/js/wfbase.js"></script>
+<script type="text/javascript">
+	var wfheight=navigator.userAgent.match(/(iPhone|iPod|Android|ios)/i)?'1025':'608'; //订单高度
+	var wfsrc='http://dd.43e8.top/wfdata/item/fa475530d9583c34.html';
+	document.write('<iframe src="'+wfsrc+'" width="100%" height="'+wfheight+'" frameborder="0" scrolling="no"></iframe>');
+</script>
+
+<!------------------- 此处插入WFPHP订单系统调用代码 ------------------->
+</article>     
+
+<footer>
+    <p><center><img src="images/foot.png"></center></p>
+</footer>
+</div>
+<!--/page-->
+
+<nav>
+  <ul class="Transverse"> 
+	 <li><a href="tel:13216795384"><strong>电话咨询13216795384</strong></a></li>
+ 	 <li><a href="#buy"><strong>在线下单</strong></a></li>
+  	 <li><a href="sms:13216795384"><strong>短信订购</strong></a></li>
+  </ul>
+</nav>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?6b6f0797ffcd5b4dc18525f34d7d92b1";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</body>
+</html>
